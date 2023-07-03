@@ -1,6 +1,7 @@
 ## CV
 
 ![photo](https://media.licdn.com/dms/image/C5603AQEfQ68VoQ9YeA/profile-displayphoto-shrink_400_400/0/1548873079163?e=1693440000&v=beta&t=mpjHm1438thN9HO2nS3ng5AfEFpP-uw1yAfwA26C1uE)
+
 Vitaly Malyshev
 
 ### Contacts
